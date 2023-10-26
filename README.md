@@ -1,2 +1,2 @@
 # Light-Client-V3
-Modded Version of Light Client V3 | dsc.gg/projectlight | NOTE: I Am NOT The OG Creator, check out dsc.gg/projectlight for that
+OG : dsc.gg/projectlight | Ariza Purple Theme For Project Light V3.
