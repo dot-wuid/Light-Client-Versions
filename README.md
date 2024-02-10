@@ -6,4 +6,4 @@
   [2.1](https://cdn.discordapp.com/attachments/1052316152912695317/1095017529568661554/Light-Client-v2-Beta1.0.mcpack)
 
 - Custom Themes
-  [Ariza Purple - V3](https://example.com)
+  [Ariza Purple - V3](https://raw.githubusercontent.com/dot-wuid/Light-Client-Versions/main/Ariza%20Purple.mcpack)
